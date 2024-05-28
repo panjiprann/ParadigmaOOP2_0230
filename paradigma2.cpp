@@ -22,3 +22,6 @@ class pekerja : public orang {
         }
 };
 
+class pelajar : public orang {
+    public:
+}
